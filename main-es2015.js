@@ -517,7 +517,7 @@ FooterComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "footer", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](3, "Made with love by Manasvi Medam");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](3, "Made with \uD83D\uDC96 by Manasvi Medam");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "ul", 2);
@@ -999,7 +999,7 @@ WorkComponent.ɵfac = function WorkComponent_Factory(t) { return new (t || WorkC
 WorkComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: WorkComponent, selectors: [["app-work"]], decls: 7, vars: 1, consts: [[1, "header"], [1, "grid-display"], ["class", "card", 4, "ngFor", "ngForOf"], [1, "card"], [3, "routerLink"], ["width", "600", "height", "300px", 1, "post-image", 3, "src"], [1, "title", "post-info"], [1, "article-date"], [1, "date"], [1, "article-description"], [1, "read-more", 3, "routerLink"]], template: function WorkComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "header", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "h1");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "-Hi, I'm Manasvi.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "-Hi, I'm Manasvi. \uD83E\uDD17");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "h3");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](4, " software engineer, novice artist, and student at Rutgers University-New Brunswick. ");
